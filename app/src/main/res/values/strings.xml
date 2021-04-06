@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TrueCitizenQuiz</string>
+    <string name="question_text">A Question</string>
+</resources>
