@@ -1,6 +1,19 @@
 <resources>
-    <string name="app_name">TrueCitizenQuiz</string>
-    <string name="question_text">A Question</string>
-    <string name="true_button">True</string>
-    <string name="false_button">False</string>
+    <string name="app_name">True Citizen Quiz</string>
+    <string name="starting_question_text">Let the game begin!</string>
+    <string name="true_button">Adevarat!</string>
+    <string name="false_button">NU!</string>
+    <string name="next_question_button">Urmatoarea intrebare</string>
+
+    <string name="question_capi_artist">Sebastian Eduard Petrea este un Artist renumit.</string>
+    <string name="question_marin_bea">Marin are nevoie de 4 litri de apa pe zi pentru a supravietui.</string>
+    <string name="flaconi_spitzname">Pe Sofia de fapt o cheama <b>Flaconi</b>.</string>
+    <string name="mounteverest_sare">Sara sa nascut pe Mount Everest.</string>
+    <string name="capi_jungla"><b>Capi</b> iubeste padurea</string>
+    <string name="sanda_bici">Sanda iubeste sa mearga cu bicicleta.</string>
+    <string name="chica_hamster">Chika sa impaca bine cu hamsteri.</string>.
+
+    <string name="correct_answer">Corect!</string>
+    <string name="false_answer">Fals!</string>
+
 </resources>

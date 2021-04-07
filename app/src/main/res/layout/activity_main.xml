@@ -15,7 +15,7 @@
 
     <TextView
         android:id="@+id/question_text_view"
-        android:text="@string/question_text"
+        android:text="@string/starting_question_text"
         android:padding="8dp"
         android:textColor="@color/white"
         android:layout_width="wrap_content"
@@ -41,7 +41,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" />
 
-
     </LinearLayout>
+
+    // ImageButton also possible
+    <Button
+        android:id="@+id/next_button"
+        android:text="@string/next_question_button"
+        android:layout_marginTop="128dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
 
 </LinearLayout>
