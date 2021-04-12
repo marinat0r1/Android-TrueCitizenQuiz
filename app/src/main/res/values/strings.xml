@@ -12,6 +12,13 @@
     <string name="capi_jungla"><b>Capi</b> iubeste padurea</string>
     <string name="sanda_bici">Sanda iubeste sa mearga cu bicicleta.</string>
     <string name="chica_hamster">Chika sa impaca bine cu hamsteri.</string>.
+    <string name="capi_paru_albastru">Capi are parul albastru.</string>
+    <string name="mare">Marea este albastra.</string>
+    <string name="mancare_preferata_flaconi.">Lui Flaconi ai plac macaroanele.</string>
+    <string name="patru_lei">Patru Lei sunt un EURO.</string>
+    <string name="saracie">Marin ai zgarcit.</string>
+    <string name="marin_cap">Marin are capul patrat.</string>
+    <string name="marin_fun">Lui Marin ai place sa umble dezbracat.</string>
 
     <string name="correct_answer">Corect!</string>
     <string name="false_answer">Fals!</string>
