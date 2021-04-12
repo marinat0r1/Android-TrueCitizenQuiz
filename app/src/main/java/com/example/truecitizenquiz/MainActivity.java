@@ -30,7 +30,14 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             new Question(R.string.mounteverest_sare, false),
             new Question(R.string.question_capi_artist, true),
             new Question(R.string.question_marin_bea, false),
-            new Question(R.string.sanda_bici, false)
+            new Question(R.string.sanda_bici, false),
+            new Question(R.string.capi_paru_albastru,false),
+            new Question(R.string.mare,true),
+            new Question(R.string.mancare_preferata_flaconi_,true),
+            new Question(R.string.patru_lei,false),
+            new Question(R.string.saracie,true),
+            new Question(R.string.marin_cap,true),
+            new Question(R.string.marin_fun,false)
             // add more ...
     };
 
